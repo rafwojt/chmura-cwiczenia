@@ -16,4 +16,5 @@ Repozytorium do przedmiotu „Wprowadzenie do przetwarzania w chmurze”.
 - [Notatka: cechy chmury według NIST](notatki/cechy-nist.md)
 - [Notatka: słownik odpowiedników usług](notatki/slownik.md)
 - [Notatka: bezpieczeństwo](notatki/bezpieczenstwo.md)
-- [Notatnik](https://colab.research.google.com/github/rafwojt/chmura-cwiczenia/blob/main/%C4%86wiczenia%201%20%E2%80%94%20rozwi%C4%85zania.ipynb)
+- [Ćwiczenia 1](https://colab.research.google.com/github/rafwojt/chmura-cwiczenia/blob/main/%C4%86wiczenia%201%20%E2%80%94%20rozwi%C4%85zania.ipynb)
+- [Ćwiczenia 2](https://colab.research.google.com/github/rafwojt/chmura-cwiczenia/blob/main/%C4%86wiczenia%202%20-%20zagadki)
